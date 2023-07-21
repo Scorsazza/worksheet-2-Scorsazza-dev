@@ -1,0 +1,2 @@
+pyasge>=1.1.0,<2.0.0
+pyfmodex @ git+https://github.com/tyrylu/pyfmodex.git
